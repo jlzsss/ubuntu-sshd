@@ -10,6 +10,8 @@ Dockerized SSH service, built on top of [official Ubuntu](https://registry.hub.d
 - rastasheep/ubuntu-sshd:13.10 (saucy)
 - rastasheep/ubuntu-sshd:14.04 (trusty)
 - rastasheep/ubuntu-sshd:16.04 (xenial)
+- rastasheep/ubuntu-sshd:17.04 (zesty)
+
 
 ## Installed packages
 
@@ -21,6 +23,8 @@ Base:
 - [saucy (13.10) minimal](http://packages.ubuntu.com/saucy/ubuntu-minimal)
 - [trusty (14.04) minimal](http://packages.ubuntu.com/trusty/ubuntu-minimal)
 - [Xenial (16.04) minimal](http://packages.ubuntu.com/xenial/ubuntu-minimal)
+- [zesty (17.04) minimal](http://packages.ubuntu.com/zesty/ubuntu-minimal)
+
 
 Image specific:
 - [openssh-server](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)
