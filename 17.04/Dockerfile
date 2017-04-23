@@ -1,5 +1,5 @@
 FROM       ubuntu:17.04
-MAINTAINER Aleksandar Diklic "https://github.com/rastasheep"
+MAINTAINER Aleksandar Diklic "https://github.com/jlzsss"
 
 RUN apt-get update
 
