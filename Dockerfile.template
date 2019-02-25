@@ -1,4 +1,4 @@
-FROM       ubuntu:%VERSION%
+FROM       i386/ubuntu:%VERSION%
 MAINTAINER Aleksandar Diklic "https://github.com/jlzsss"
 
 RUN apt-get update
